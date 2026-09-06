@@ -1,2 +1,4 @@
 # AdGuardHome-Cutom-Dashboard
-This repo is part of my server monitor dashboard
+Display AdGuard Home statistik on server dashboard.
+[Demo](https://github.com/username/repository)
+
