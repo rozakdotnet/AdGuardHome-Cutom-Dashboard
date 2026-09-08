@@ -2448,7 +2448,7 @@ async function loadData() {
 
         const response =
             await fetch(
-                'adh.php?api=1&_=' +
+                'adguard.php?api=1&_=' +
                 Date.now(),
                 {
                     cache: 'no-store'
